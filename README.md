@@ -1,4 +1,4 @@
-# Sinag-Weather-App
+# Sinag - Weather App
 
 Sinag is a local and international weather forecast web application. It shows current weather data such as temperature, condition, cloud, wind, humidity and precipitation information.
 
