@@ -23,4 +23,4 @@ Sinag is a local and international weather forecast web application. It shows cu
 - Copy generated API key
 - Paste API key to js file at `const apiKey = '' `
 
-### Live Demo
+
